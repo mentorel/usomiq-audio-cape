@@ -1,0 +1,1 @@
+Audio cape similar with BeagleBone Audio Cape but based on AIC3104. usomiq-audio-cape provides 4 audio interfaces: Line In/Out, Mic In, Phone Out
